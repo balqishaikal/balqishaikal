@@ -56,15 +56,7 @@
 
 <br/>
 
-## `06` — Contributions
-
-<p align="center">
-  <img src="./assets/contributions.svg" width="100%" alt="GitHub Contributions"/>
-</p>
-
-<br/>
-
-## `07` — Let's Connect
+## `06` — Let's Connect
 
 <div align="center"><img src="./assets/footer.svg" width="100%" alt="Let's build something"/><br/><br/>
 <a href="mailto:balqishaikaliskandar@gmail.com"><img src="https://img.shields.io/badge/Email-balqishaikaliskandar@gmail.com-0D0B18?style=flat-square&logo=gmail&logoColor=8DB8FF"/></a>
