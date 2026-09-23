@@ -58,9 +58,9 @@
 
 ## `06` — Contributions
 
-<div align="center"><img src="https://raw.githubusercontent.com/balqishaikal/balqishaikal/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/></div>
-
-<br/>
+<p align="center">
+  <img src="./assets/contributions.svg" width="100%">
+</p>
 
 ## `07` — Let's Connect
 
