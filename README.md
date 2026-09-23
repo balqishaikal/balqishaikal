@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="./assets/hero.gif" width="100%" alt="Balqis — Software Engineering × Product × UI/UX"/>
+<img src="./assets/hero.gif" width="100%" alt="Balqis Haikal — Software Engineering × Product × UI/UX"/>
 
 <br/><br/>
 
@@ -18,50 +18,7 @@
 
 ## `01` — Identity
 
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🧩 ENGINEERING
-
-`SOFTWARE`
-
-System Design<br/>
-Full-Stack<br/>
-Integration<br/>
-Architecture
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🚀 PRODUCT
-
-`PRODUCT`
-
-Strategy<br/>
-User Research<br/>
-Solution Design<br/>
-Roadmaps
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🎨 DESIGN
-
-`UI/UX`
-
-Figma<br/>
-Design Systems<br/>
-User Flows<br/>
-Prototyping
-
-</td>
-</tr>
-</table>
-
-</div>
+<div align="center"><img src="./assets/identity-cards.svg" width="100%" alt="Engineering, Product and Design"/></div>
 
 <br/>
 
@@ -83,46 +40,7 @@ Prototyping
 
 ## `03` — Featured Work
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🧩 EXAMABLE
-
-`PHP` `MySQL`
-
-🔊 Text-to-Speech<br/>
-🔠 Accessibility UI<br/>
-🌓 High Contrast<br/>
-🔐 Role-Based Access
-
-<br/>
-
-🥇 **CITREX 2025 · GOLD**
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🚀 UNIXGO
-
-`PRODUCT` `UX` `ENGINEERING`
-
-🍔 UnixFood<br/>
-🚗 UnixRide<br/>
-🛍️ UnixMarket<br/>
-🏃 UnixRun
-
-<br/>
-
-**CURRENTLY BUILDING**
-
-`CPO & CO-FOUNDER`
-
-</td>
-</tr>
-</table>
-</div>
+<div align="center"><img src="./assets/featured-work.svg" width="100%" alt="Featured work: ExamAble and UnixGo"/></div>
 
 <br/>
 
@@ -134,14 +52,7 @@ Prototyping
 
 ## `05` — Highlights
 
-<div align="center">
-<table><tr>
-<td align="center" width="25%">🥇<br/><b>CITREX 2025</b><br/>Gold Medal</td>
-<td align="center" width="25%">🏆<br/><b>STEM Challenge</b><br/>Champion</td>
-<td align="center" width="25%">🎓<br/><b>UMPSA Diploma</b><br/>First Class</td>
-<td align="center" width="25%">📡<br/><b>CCNAv7</b><br/>Networks</td>
-</tr></table>
-</div>
+<div align="center"><img src="./assets/highlights.svg" width="100%" alt="Highlights"/></div>
 
 <br/>
 
@@ -156,5 +67,5 @@ Prototyping
 <div align="center"><img src="./assets/footer.svg" width="100%" alt="Let's build something"/><br/><br/>
 <a href="mailto:balqishaikaliskandar@gmail.com"><img src="https://img.shields.io/badge/Email-balqishaikaliskandar@gmail.com-0D0B18?style=flat-square&logo=gmail&logoColor=8DB8FF"/></a>
 <a href="https://www.linkedin.com/in/balqishaikal"><img src="https://img.shields.io/badge/LinkedIn-balqishaikal-0D0B18?style=flat-square&logo=linkedin&logoColor=8DB8FF"/></a>
-<a href="https://unixgo.my"><img src="https://img.shields.io/badge/Web-unixgo.my-0D0B18?style=flat-square&logo=safari&logoColor=8DB8FF"/></a>
+<a href="https://unixgo.my/balqishaikal"><img src="https://img.shields.io/badge/Web-unixgo.my%2Fbalqishaikal-0D0B18?style=flat-square&logo=safari&logoColor=8DB8FF"/></a>
 </div>
