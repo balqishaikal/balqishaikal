@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1400"
+     height="430"
+     viewBox="0 0 1400 430">
+
+<defs>
+  <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#6D3FD4"/>
+    <stop offset="50%" stop-color="#8E54E9"/>
+    <stop offset="100%" stop-color="#4F8CFF"/>
+  </linearGradient>
+
+  <linearGradient id="activity" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#8E54E9"/>
+    <stop offset=".5" stop-color="#A66CFF"/>
+    <stop offset="1" stop-color="#4F8CFF"/>
+  </linearGradient>
+
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="12"/>
+  </filter>
+
+  <radialGradient id="bgGlow" cx="75%" cy="45%" r="65%">
+    <stop offset="0%" stop-color="#242044"/>
+    <stop offset="45%" stop-color="#111326"/>
+    <stop offset="100%" stop-color="#0D0B18"/>
+  </radialGradient>
+</defs>
+
+<rect width="1400" height="430" rx="28" fill="url(#bgGlow)"/>
+
+<ellipse cx="1130" cy="220" rx="260" ry="130"
+         fill="#4F8CFF" opacity=".07" filter="url(#softGlow)"/>
+<ellipse cx="300" cy="350" rx="250" ry="100"
+         fill="#8E54E9" opacity=".05" filter="url(#softGlow)"/>
+
+<g font-family="Arial, Helvetica, sans-serif">
+
+  <rect x="35" y="28" width="54" height="54" rx="12" fill="#171A27"/>
+  <text x="62" y="66" text-anchor="middle"
+        fill="#F4F5FF" font-size="25" font-weight="700">06</text>
+
+  <text x="110" y="67" fill="#F4F5FF"
+        font-size="34" font-weight="700">Contributions</text>
+
+  <text x="110" y="94" fill="#7F8295"
+        font-size="12" letter-spacing="2.2">
+    CODE ACTIVITY • LAST 12 MONTHS
+  </text>
+
+  <line x1="35" y1="112" x2="1365" y2="112"
+        stroke="#343746" stroke-width="1"/>
+
+  <text x="45" y="154" fill="#8B8FA4"
+        font-size="11" letter-spacing="1.5">
+    CONTRIBUTION GRID
+  </text>
+
+  <rect x="42" y="174" width="940" height="142" rx="18"
+        fill="#0A0B14" stroke="#25283A" stroke-width="1"/>
+
+  <g transform="translate(65 194)">
+    <g fill="#15142A">
+      <rect x="0" y="0" width="18" height="18" rx="4"/>
+      <rect x="25" y="0" width="18" height="18" rx="4"/>
+      <rect x="50" y="0" width="18" height="18" rx="4"/>
+      <rect x="75" y="0" width="18" height="18" rx="4"/>
+      <rect x="100" y="0" width="18" height="18" rx="4"/>
+      <rect x="125" y="0" width="18" height="18" rx="4"/>
+      <rect x="150" y="0" width="18" height="18" rx="4"/>
+      <rect x="175" y="0" width="18" height="18" rx="4"/>
+      <rect x="200" y="0" width="18" height="18" rx="4"/>
+      <rect x="225" y="0" width="18" height="18" rx="4"/>
+      <rect x="250" y="0" width="18" height="18" rx="4"/>
+      <rect x="275" y="0" width="18" height="18" rx="4"/>
+      <rect x="300" y="0" width="18" height="18" rx="4"/>
+      <rect x="325" y="0" width="18" height="18" rx="4"/>
+      <rect x="350" y="0" width="18" height="18" rx="4"/>
+      <rect x="375" y="0" width="18" height="18" rx="4"/>
+      <rect x="400" y="0" width="18" height="18" rx="4"/>
+      <rect x="425" y="0" width="18" height="18" rx="4"/>
+      <rect x="450" y="0" width="18" height="18" rx="4"/>
+      <rect x="475" y="0" width="18" height="18" rx="4"/>
+      <rect x="500" y="0" width="18" height="18" rx="4"/>
+      <rect x="525" y="0" width="18" height="18" rx="4"/>
+      <rect x="550" y="0" width="18" height="18" rx="4"/>
+      <rect x="575" y="0" width="18" height="18" rx="4"/>
+      <rect x="600" y="0" width="18" height="18" rx="4"/>
+      <rect x="625" y="0" width="18" height="18" rx="4"/>
+      <rect x="650" y="0" width="18" height="18" rx="4"/>
+      <rect x="675" y="0" width="18" height="18" rx="4"/>
+      <rect x="700" y="0" width="18" height="18" rx="4"/>
+      <rect x="725" y="0" width="18" height="18" rx="4"/>
+      <rect x="750" y="0" width="18" height="18" rx="4"/>
+      <rect x="775" y="0" width="18" height="18" rx="4"/>
+      <rect x="800" y="0" width="18" height="18" rx="4"/>
+      <rect x="825" y="0" width="18" height="18" rx="4"/>
+      <rect x="850" y="0" width="18" height="18" rx="4"/>
+    </g>
+
+    <g fill="#35205F">
+      <rect x="50" y="25" width="18" height="18" rx="4"/>
+      <rect x="125" y="25" width="18" height="18" rx="4"/>
+      <rect x="200" y="25" width="18" height="18" rx="4"/>
+      <rect x="275" y="25" width="18" height="18" rx="4"/>
+      <rect x="375" y="25" width="18" height="18" rx="4"/>
+      <rect x="450" y="25" width="18" height="18" rx="4"/>
+      <rect x="525" y="25" width="18" height="18" rx="4"/>
+      <rect x="625" y="25" width="18" height="18" rx="4"/>
+      <rect x="700" y="25" width="18" height="18" rx="4"/>
+      <rect x="775" y="25" width="18" height="18" rx="4"/>
+    </g>
+
+    <g fill="#5D36A5">
+      <rect x="25" y="50" width="18" height="18" rx="4"/>
+      <rect x="50" y="50" width="18" height="18" rx="4"/>
+      <rect x="150" y="50" width="18" height="18" rx="4"/>
+      <rect x="175" y="50" width="18" height="18" rx="4"/>
+      <rect x="325" y="50" width="18" height="18" rx="4"/>
+      <rect x="350" y="50" width="18" height="18" rx="4"/>
+      <rect x="425" y="50" width="18" height="18" rx="4"/>
+      <rect x="550" y="50" width="18" height="18" rx="4"/>
+      <rect x="575" y="50" width="18" height="18" rx="4"/>
+      <rect x="675" y="50" width="18" height="18" rx="4"/>
+      <rect x="750" y="50" width="18" height="18" rx="4"/>
+    </g>
+
+    <g fill="#8E54E9" filter="url(#glow)">
+      <rect x="175" y="75" width="18" height="18" rx="4"/>
+      <rect x="200" y="75" width="18" height="18" rx="4"/>
+      <rect x="350" y="75" width="18" height="18" rx="4"/>
+      <rect x="375" y="75" width="18" height="18" rx="4"/>
+      <rect x="400" y="75" width="18" height="18" rx="4"/>
+      <rect x="550" y="75" width="18" height="18" rx="4"/>
+      <rect x="575" y="75" width="18" height="18" rx="4"/>
+      <rect x="700" y="75" width="18" height="18" rx="4"/>
+      <rect x="725" y="75" width="18" height="18" rx="4"/>
+      <rect x="750" y="75" width="18" height="18" rx="4"/>
+    </g>
+
+    <g fill="#4F8CFF" filter="url(#glow)">
+      <rect x="225" y="50" width="18" height="18" rx="4"/>
+      <rect x="250" y="50" width="18" height="18" rx="4"/>
+      <rect x="275" y="50" width="18" height="18" rx="4"/>
+      <rect x="450" y="25" width="18" height="18" rx="4"/>
+      <rect x="625" y="75" width="18" height="18" rx="4"/>
+      <rect x="650" y="75" width="18" height="18" rx="4"/>
+      <rect x="800" y="50" width="18" height="18" rx="4"/>
+      <rect x="825" y="50" width="18" height="18" rx="4"/>
+      <rect x="850" y="50" width="18" height="18" rx="4"/>
+    </g>
+  </g>
+
+  <text x="1015" y="154" fill="#8B8FA4"
+        font-size="11" letter-spacing="1.5">
+    ACTIVITY PULSE
+  </text>
+
+  <rect x="1015" y="174" width="345" height="142" rx="18"
+        fill="#0A0B14" stroke="#25283A"/>
+
+  <path d="M1040 265 L1080 265 L1095 245 L1110 278
+           L1130 225 L1150 265 L1190 265 L1210 250
+           L1230 270 L1250 235 L1270 265 L1310 265 L1335 245"
+        fill="none" stroke="#8E54E9" stroke-width="3"
+        opacity=".25" filter="url(#softGlow)"/>
+
+  <path d="M1040 265 L1080 265 L1095 245 L1110 278
+           L1130 225 L1150 265 L1190 265 L1210 250
+           L1230 270 L1250 235 L1270 265 L1310 265 L1335 245"
+        fill="none" stroke="url(#activity)" stroke-width="2.5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="1130" cy="225" r="5"
+          fill="#A66CFF" filter="url(#glow)"/>
+  <circle cx="1250" cy="235" r="5"
+          fill="#4F8CFF" filter="url(#glow)"/>
+
+  <text x="45" y="350" fill="#F4F5FF"
+        font-size="15" font-weight="700">
+    BUILDING • COMMITTING • SHIPPING
+  </text>
+
+  <text x="45" y="373" fill="#777B8F" font-size="12">
+    Consistent activity across software, product and design work.
+  </text>
+
+  <text x="1070" y="357" fill="#777B8F"
+        font-size="10" letter-spacing="1">
+    ACTIVITY
+  </text>
+
+  <rect x="1070" y="370" width="14" height="14" rx="3" fill="#15142A"/>
+  <rect x="1090" y="370" width="14" height="14" rx="3" fill="#35205F"/>
+  <rect x="1110" y="370" width="14" height="14" rx="3" fill="#5D36A5"/>
+  <rect x="1130" y="370" width="14" height="14" rx="3" fill="#8E54E9"/>
+  <rect x="1150" y="370" width="14" height="14" rx="3" fill="#4F8CFF"/>
+
+  <text x="1180" y="381" fill="#777B8F" font-size="10">
+    LOW → HIGH
+  </text>
+
+</g>
+</svg>
