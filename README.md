@@ -59,27 +59,15 @@
 ## `06` — Contributions
 
 <p align="center">
-  <img src="./assets/contributions.svg" width="100%">
+  <img src="./assets/contributions.svg" width="100%" alt="GitHub Contributions"/>
 </p>
+
+<br/>
 
 ## `07` — Let's Connect
 
-<div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Let's build something"/>
-
-<br/><br/>
-
-<a href="mailto:balqishaikaliskandar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-balqishaikaliskandar%40gmail.com-0D0B18?style=flat-square&logo=gmail&logoColor=8DB8FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/balqishaikal">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D0B18?style=flat-square&logo=linkedin&logoColor=8DB8FF"/>
-</a>
-
-<a href="https://unixgo.my/balqishaikal">
-  <img src="https://img.shields.io/badge/Web-unixgo.my%2Fbalqishaikal-0D0B18?style=flat-square&logo=safari&logoColor=8DB8FF"/>
-</a>
-
+<div align="center"><img src="./assets/footer.svg" width="100%" alt="Let's build something"/><br/><br/>
+<a href="mailto:balqishaikaliskandar@gmail.com"><img src="https://img.shields.io/badge/Email-balqishaikaliskandar@gmail.com-0D0B18?style=flat-square&logo=gmail&logoColor=8DB8FF"/></a>
+<a href="https://www.linkedin.com/in/balqishaikal"><img src="https://img.shields.io/badge/LinkedIn-balqishaikal-0D0B18?style=flat-square&logo=linkedin&logoColor=8DB8FF"/></a>
+<a href="https://unixgo.my/balqishaikal"><img src="https://img.shields.io/badge/Web-unixgo.my%2Fbalqishaikal-0D0B18?style=flat-square&logo=safari&logoColor=8DB8FF"/></a>
 </div>
